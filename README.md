@@ -4,17 +4,17 @@ This repo contains examples and notes of data science projects built whilst lear
 
 1. Decision trees cover:
 
-    data import & exploration
+    > data import & exploration
     
-    feature engineering
+    > feature engineering
     
-    splitting data into train and test datasets
+    > splitting data into train and test datasets
     
-    decision trees built using entropy and Gini index (inc. tree visualizations)
+    > decision trees built using entropy and Gini index (inc. tree visualizations)
     
-    confusion matrix & classification report
+    > confusion matrix & classification report
     
-    summary of results and conclusions
+    > summary of results and conclusions
   
   
   
