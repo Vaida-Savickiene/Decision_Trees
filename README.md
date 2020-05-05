@@ -1,8 +1,8 @@
-____________ Vaida Savickiene Data Science Portfolio ___________
+**____________ Vaida Savickiene Data Science Portfolio ___________**
 
 This repo contains examples and notes of data science projects built whilst learning Python
 
-1. Decision trees cover:
+1. Decision trees:
 
     > data import & exploration
     
@@ -16,5 +16,6 @@ This repo contains examples and notes of data science projects built whilst lear
     
     > summary of results and conclusions
   
+2. Clustering analysis: 
   
   
