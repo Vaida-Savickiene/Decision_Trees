@@ -2,6 +2,15 @@
 
 This repo contains examples and notes of data science projects built whilst learning Python
 
+Data Preparation:
+> Mount Google Drive
+> Import Libraries
+> Apply Pandas Profiling
+> Generate Pandas Profiling Report and Export to HTML
+> Heatmap over a Pandas DataFrame
+> Binning Data
+> Pandas Crosstab
+
 Decision trees:
 > 1. data import & exploration,
 > 2. feature engineering,
