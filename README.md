@@ -2,7 +2,7 @@
 
 This repo contains examples and notes of data science projects built whilst learning Python
 
-Data Preparation:
+1. Data Preparation:
 > 1. Mount Google Drive
 > 2. Import Libraries
 > 3. Apply Pandas Profiling
@@ -11,7 +11,7 @@ Data Preparation:
 > 6. Binning Data
 > 7. Pandas Crosstab
 
-Decision trees:
+2. Decision trees:
 > 1. data import & exploration,
 > 2. feature engineering,
 > 3. splitting data into train and test datasets,
@@ -19,7 +19,7 @@ Decision trees:
 > 5. confusion matrix & classification report,
 > 6. summary of results and conclusions
   
-2. Clustering analysis: 
+3. Clustering analysis: 
 > 1. data import & exploration (descriptive stats),
 > 2. upload .py script,
 > 3. visual feature exploration,
