@@ -10,6 +10,7 @@ This repo contains examples and notes of data science projects built whilst lear
 > 5. Heatmap over a Pandas DataFrame
 > 6. Binning Data
 > 7. Pandas Crosstab
+> 8. Interactive Plots using Altair
 
 2. Decision trees:
 > 1. data import & exploration,
